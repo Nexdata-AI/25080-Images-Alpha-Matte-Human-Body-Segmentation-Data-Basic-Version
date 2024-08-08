@@ -3,7 +3,7 @@
 ## Description
 25,080 Images – Alpha Matte Human Body Segmentation Data. The data includes indoor scenes and outdoor scenes. The dataset diversity includes multiple scenes, multiple age groups, multiple human body angles, multiple postures. In terms of annotation, alpha matte segmentation annotation was adopted for the human body. The data can be used for tasks such as alpha matte human body segmentation.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1202?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1202?source=Github
 
 
 ## Data size
